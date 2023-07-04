@@ -9,3 +9,10 @@ The following Python libraries are required to run this project:
 - pytorch
 - sklearn
 - tenseal
+
+
+## Data
+
+The data used in this work is derived from the [Lidar Super Resolution](https://github.com/RobustFieldAutonomyLab/lidar_super_resolution/tree/master) repository on GitHub.
+
+To download the training and testing datasets used in this work, please visit the following link: [Data Folder](https://drive.google.com/drive/folders/1oPNyeNW8yeBrWHMWRlYCT_e4tfMPzLKO)
